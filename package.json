@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "msw": "^0.28.2",
+    "netlify-cli": "^16.4.2",
     "prettier": "^2.2.1"
   },
   "msw": {
