@@ -60,7 +60,7 @@ const HomePage = () => {
           ))}
         </div>
       ) : (
-        <p className="prompt">No {type}s available for adoption now.</p>
+        <p className="prompt">No {type}s available for adoption now</p>
       )}
     </div>
   );
