@@ -4,6 +4,10 @@ Adopt a Pet is a react app which I created for a challenge project as part of [C
 
 In this project, I practiced using React Router v6 to add client-side routing to a React Application. I worked on a pet adoption website that allows users to view all the adoptable pets of a particular species and view the profiles of specific adoptable pets.
 
+You can view the project live at https://adopt-a-pet-router.netlify.app/
+
+
+
 ## Tasks
 
 The objective of this project was to add client-side routing to the application using React Router so that: 
